@@ -1,3 +1,5 @@
 excel/
 stata/
 .ipynb_checkpoints/
+*.zip
+*.tar.gz
